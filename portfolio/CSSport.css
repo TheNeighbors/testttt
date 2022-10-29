@@ -1,0 +1,29 @@
+h1 {
+    font-size: 25px;
+    color: rgb(0, 0, 0);
+}
+body{
+    background: url('https://cdn.discordapp.com/attachments/917374735573213204/1033685452294721667/w-qjCHPZbeXCQ-unsplash.jpg');
+    width: 100%;
+    height: auto;
+    background-size: cover;
+    background-attachment: fixed;
+    position: relative;
+    overflow: hidden;
+    backdrop-filter: blur(20px);
+}
+img {
+    width: 5cm;
+    height: 5cm;
+    border-radius: 80%;
+    margin: 2cm 2cm 0cm 2cm;
+}
+table{
+    text-align: center;
+    width: 100%;
+    height: auto;
+}
+hr{
+    width: 5cm;
+    border-color: black;
+}
